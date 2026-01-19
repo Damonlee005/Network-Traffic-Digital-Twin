@@ -2,11 +2,13 @@
 
 Summary / Overview
 ---
+
 This project is a Network Traffic Digital Twin developed in Python to model and analyze baseline network behavior in a safe, offline environment. The goal is to replicate key characteristics of real network traffic so that security-related experiments can be conducted without impacting live systems.
 
 The digital twin processes offline network traffic data to extract features such as traffic volume, protocol usage, connection patterns, and port activity. A baseline model of normal network behavior is established and then compared against simulated attack scenarios, including port scanning and traffic flooding. By observing deviations from the baseline, the project enables structured experimentation with security analysis concepts and early-stage anomaly detection techniques.
 
 This project emphasizes understanding how network behavior changes under different conditions and how digital replicas can support cybersecurity analysis in a controlled setting.
+
 
 ## Future Work
 ---
@@ -26,6 +28,7 @@ As my knowledge of networking and cybersecurity continues to grow, this project 
 
 7.Evaluating scalability and performance considerations for larger datasets
 
+
 ## Usage
 ---
 This project is intended for offline learning and experimentation and is not designed for deployment on live networks.
@@ -41,6 +44,7 @@ This supports hands-on learning by allowing users to:
 3.Simulate attacks such as port scans or flooding
 
 4.Analyze deviations between normal and malicious traffic
+
 
 ## What I Learned
 ---
