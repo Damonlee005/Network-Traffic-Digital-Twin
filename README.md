@@ -1,6 +1,7 @@
 
 
-Summary / Overview
+Summary / Overview  
+
 ---
 
 This project is a Network Traffic Digital Twin developed in Python to model and analyze baseline network behavior in a safe, offline environment. The goal is to replicate key characteristics of real network traffic so that security-related experiments can be conducted without impacting live systems.
